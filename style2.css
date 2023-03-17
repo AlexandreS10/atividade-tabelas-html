@@ -1,0 +1,26 @@
+table {
+  text-align: center;
+  width: 50%;
+  height: 350px;
+  border: 1px solid;
+  color: black;
+  border-collapse: collapse;
+}
+td {
+  border: 1px solid;
+  color: black;
+}
+.topo {
+  height: 15%;
+  width: 100%;
+  text-align: center;
+}
+.menu {
+  width: 30%;
+  text-align: center;
+}
+.rodape {
+  height: 5%;
+  width: 100%;
+  text-align: center;
+}

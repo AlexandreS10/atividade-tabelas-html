@@ -1,0 +1,17 @@
+table {
+  width: 80%;
+  border: 1px solid;
+  color: black;
+  border-collapse: collapse;
+}
+td {
+  padding: 10px;
+  border: 1px solid;
+  color: black;
+}
+.center {
+  text-align: center;
+}
+.rigth {
+  text-align: right;
+}

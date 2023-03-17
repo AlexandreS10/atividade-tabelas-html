@@ -1,0 +1,11 @@
+table {
+  width: 150px;
+  height: 100px;
+  border: 1px solid;
+  color: black;
+  border-collapse: collapse;
+}
+td {
+  border: 1px solid;
+  color: black;
+}
